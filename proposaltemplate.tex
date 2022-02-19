@@ -1,0 +1,122 @@
+%This document demonstrates proper use of REV\TeX~4 (and
+%\LaTeXe) in mansucripts prepared for submission to APS
+%journals. Further information can be found in the REV\TeX~4
+%documentation included in the distribution or available at
+%\url{http://publish.aps.org/revtex4/}. 
+% TeX'ing this file requires that you have AMS-LaTeX 2.0 installed
+% as well as the rest of the prerequisites for REVTeX 4.0 .
+% If you compile your tex files on the Physics
+% server, everything is already set up for you.
+%
+
+% Choose the format that suits your purposes.  The top line gives the
+% two column (twocolumn) format that one sees in printed journals.  The
+% second line refers to a one column double spaced format (preprint) that
+% is useful during editing.  Use the "%" symbol to edit out the line
+% you do not want to use.
+
+\documentclass[twocolumn,showpacs,preprintnumbers,amsmath,amssymb]{revtex4}
+%\documentclass[preprint,showpacs,preprintnumbers,amsmath,amssymb]{revtex4}
+% Additional packages needed for graphics, alignment and math fonts.
+
+\usepackage{graphicx}% Include figure files in eps format.
+\usepackage{dcolumn}% Align table columns on decimal point.
+\usepackage{bm}% bold math.
+
+% The \begin{document} command set the start of the RevTeX commands.
+
+\begin{document}
+
+\title{The title of the proposal  should be  concise and clear; e.g. An Electron Spin Resonance Spectrometer for the Study of Quantum Tunnelling in  Mn$_{12}$ acetate.}
+
+\author{Your Name}
+\email{YourAddress@physics.ubc.ca}
+\affiliation{Department of Physics and Astronomy, University of British Columbia \\
+             6224 Agricultural Road, Vancouver, British Columbia, Canada, V6T 1Z1}
+
+\date{\today}
+
+\begin{abstract}
+Provide a brief summary of the proposal here. This  should be a concise  
+statement of what will be accomplished, the methods that will be used, and the potential significance. Many of you have already sent me a description of the project that can be put here with some  touching up. I will only  accept LATEX complied files in pdf format. They must be emailed to me a few days  before the oral presentations.  Make sure your supervisor has a chance to read it over before you hand it in. 
+
+\end{abstract}
+
+\maketitle
+
+% The first section of the paper.
+
+\section{Motivation}
+
+In this section introduce the subject of the proposal and  provide all the necessary background information that will be needed for a {\bf non-expert} to understand.  This  should involve reading at least 5-10 journal articles some of which your supervisor will likely provide and others you will need to look up. These should all be listed in the bibliography. 
+Items in the bibliography can be referenced  as follows.
+\cite{garwin57}, \cite{secondref}. The text inside the curly brackets are
+used to label the references. Numbers appear automatically in the compiled
+text.
+
+Most importantly you must provide  the scientific motivation for why this project should be carried out and what scientific impact it could have if  it were completely successful. Any research project requires a substantial  investment of resources (money for equipment, use of common facilities, computer time for calculations/data analysis, the countless hours spent by you and your supervisor etc.) You must convince  the reader/reviewer that the project and the potential outcome is worth this investment. Imagine that only a fraction of the  proposals submitted will be approved. If yours is not approved then you must rework the proposal or find another project for which the scientific justification is stronger.  This is typical of the competitive  environment one is often faced with in research. There is always  a demand for  resources and/or access to facilities which exceeds the availability.  Only the best projects get funded or receive time on a facility (e.g. telescope or accelerator). It is  your responsibility to make the case that your proposal  should be  approved. In this case I am the reviewer who decides if you get approval.
+
+
+\section{Theory}
+
+In this section provide details on the theory  needed to clarify the physics/astophysics behind the proposal. If you are building an ESR spectrometer you would need to explain the Zeeman interaction of an electron in a magnetic field. Use diagrams wherever possible. These can be reused or revised
+later for subsequent oral presentations and the thesis. Spend the time now to make up some good ones.
+Important  points are: (1) they must be  legible. (2) all axis properly labelled with units  etc. (3)any photos sketches should have a scale built in.   (4) Data point and uncertainties  must  be clearly visible.  
+
+
+\section{Details on Proposed Experiment/Calculation} 
+
+
+You will use this section to convince the reviewer that the project is feasible.
+Here you should describe in detail what measurements, calculations and or simulations will be made. In the case of  an experiment you should provide a schematic of the apparatus  and a circuit diagram for any electronics that you will need etc.    
+When describing equipment give model numbers and any relevant specifications that seem appropriate.
+Use figures wherever possible to describe 
+the proposed setup, electronics etc. If it is a  computational project then describe the nature of the calculations, give a flow chart,  specify in detail what the simplifications and assumptions that will be made,   etc.  How  will you test  that these assumptions are valid for the purpose you require.
+
+The rules on figures are the same for any scientific document:
+\begin{enumerate}
+\item Figures must be numbered.
+\item All the information must be easy to read. {\bf The text in a figure (scales etc) 
+should  be  large enough  so that if the figure were reduced to a single
+column the text would be the size of the regular text in the document.} 
+\item Figures must have a caption which explains 
+what is in the figure. {\bf There should
+be enough detail in the caption to understand the figure without
+reading the text}. 
+\item Every figure must be referred to in the text of the proposal.
+\end{enumerate}
+
+The figures do not need to be so polished as for a thesis but they must 
+be easily read. You can include them using LATEX or simply append them at the end. 
+If you append them at the end put the caption at the bottom of that page 
+containing the Figure. 
+
+
+\section{Resources List}
+
+Provide a detailed list of all the resources you will need. e.g. any instruments, equipment materials  and where it will come from. If it is going be bought then indicate the delivery time. Indicate what computing needs for the project and where they will come from.  
+
+
+\section{Planned Schedule}
+Provide a realistic schedule which includes when key components will arrive,
+when pieces will be  designed and built, when first
+tests will be  made, when measurements will be started and completed, when the analysis will be complete, when the thesis writeup will begin and when the first draft will be completed. You should give a draft to your supervisor at last two weeks before it is handed in to give him/her enough time to read it carefully and you enough time to revise it. Some of you already have a detailed schedule. Beware delivery times on equipment and all but the most common supplies often take 6 weeks.
+
+
+
+% Finally, make the bibliography
+
+\begin{thebibliography}{99}
+
+\bibitem{garwin57} R.L. Garwin, L.M. Lederman, M. Weinrich, Phys. Rev. 105,
+(1957) 1415.
+\bibitem{secondref} {\it Muon Science} edited by S.L. Lee, S.H. Kilcoyne, and R.
+Cywwinski, published by SUSSP publications and the Institute of Physics U.K.
+(1999). 
+\end{thebibliography}
+
+
+
+\end{document}
+%
+% ****** End of file  ******

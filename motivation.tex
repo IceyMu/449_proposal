@@ -1,0 +1,54 @@
+% The value in studying spinal cord injuries
+    % The value in terms of identifying Bio markers
+% Some modern biomarkers that could be identified
+% The value in terms of reducing the space of histologies
+% Finding the biomarkers will reduce the space of relevant histologies
+% The value in terms of imporving MRI analysis
+% A more direct statement on what we hope to find and the impact of that
+
+\sci is a major focus of neuropathology research where despite recent progress in neuroscience most patients experiencing \sci are unlikely to make a full recovery and instead experience neurological loss as well as other complications. Given the infrequency of recovery, accurate and reproducible objective indicators of a patient's health, known as biomarkers are necessary to conduct ethical and practical clinical trials and therefore any correlations between biomarkers and the degree of injury is of great research interest. Additionally, some biomarkers may track tissue changes following \sci which will provide value in predicting the severity and the recovery. \cite{hulme2017developing} Identifying practical sensitive and non-invasive biomarkers will reduce the high cost associated with assessing the severity of \sci by limiting the number of imaging tests needed to determine appropriate treatment and ensuring any intervention is better personalized to the patient. \cite{badhiwala2018review}
+
+\if{false}
+- There aren't good treatments for sci in general %
+
+- As a general feature of biomarkers finding them allows for more quantitative treatment of pathologies and shorter more ethical trials%
+
+- Biomarkers are also a good measure for predicting recovery and setting expectations for outcomes%
+
+- The discovery and validation of biomarkers has benefits see notes%
+
+- Measurement of injured spinal cord histologies will allow us to properly connect the biomarkers to the structural damage to the actual clincal outcomes which in our case is the eventual death of the patient due to their injuries.%
+
+- In particular see notes for the possible biomarkers that could be indicative of structural problems in the spinal cord that could be found as a result of our research%
+
+- Biomarkers are objectively quantifiable indicators of the medical state of a patient that can be measured from the outside.
+\fi%
+
+A potential source of biomarkers that indicate structural damage to the spinal cord would be a disruption in the \bscb that causes cellular materials from the injury site can spill into the \csf or blood, alternatively one can look for signs of pathological functions such as inflammation. The identity of these components could signify damage to neuronal cells. One example of a theoretical biomarker is \gfap which is a protein only found within astroglial cells that play a role in the development of the cytoskeleton's glial cells and its production is stimulated in response to \sci where within the first 24-hours post-injury there is no significant correlation between injury grade and \gfap concentrations \cite{pouw2014structural} however within 72-hours \gfap concentrations are correlated with severity \cite{kwon2010cerebrospinal, ahadi2015diagnostic} and analysis of \gfap in \csf predicted \sci severity and recovery outcomes with 83\% accuracy. \cite{kwon2017cerebrospinal}
+
+\if{false}
+\mbp is a major component of myelin which is a fatty material that electrically insulates axons which themselves make up a majority of white matter and the spinal cord. Demyelination is a symptom Multiple Sclerosis and also occurs from the severing of axons form the body of the neurons. \mbp can be found concentrated near new oligodendrocytes and is a potential biomarker for remyelination. \cite{hesp2015chronic, zhang2011neurological}
+\fi
+
+% Maybe write something about macrophage inflammatory protiens (MIPs)
+
+% Still need to make a point about finding the correlations between them and verifying a causation
+
+\if{false}
+Many studies into potential biomarkers are limited by a lack of human studies \cite{badhiwala2018review} and animals such as rodents have structurally simpler nervous systems with different recovery trends compared to humans. \cite{courtine2007can}
+\fi
+
+\mri is an essential tool for diagnosing and determining the rehabilitation \sci in patients. \mri methods that allow the mapping of the spinal cord histologies in patients with \sci will aid in determining causation from potential biomarkers as well as the investigation of biomarkers derived from the \mri parameters. \cite{freund2016embodied} The use of \mri for prognosis is preferable because it avoids the negative effects of imaging techniques that make use of ionizing radiation and it is non-invasive unlike methods involving the collection of \csf which adds the risk of patient pain and spinal cord compression. \cite{hrishi2019cerebrospinal} Quantitative \mri techniques such as \dmri enable probing of the spinal cord microstructure for features orders of magnitude smaller than the voxel size \mri scan by measuring the directional diffusion of water inside the tissue, this allows for more precise detection of metrics such as demyelination and tissue integrity. \cite{cohen2018microstructural, cadotte2018has, freund2013mri, seif2018quantitative}
+
+Extracting the spinal cord histology from the \dmri data requires assuming a mathematical model of the underlying tissue and fitting the data to it. A common technique known as \dti models the diffusivity with a single tensor in each voxel and the histology is interpreted from \dti metrics such as using fractional anisotropy, a quantity derived from the tensor eigenvalues, to quantify axon pathology. \dti techniques are limited by unrealistic assumptions such as modelling the region as a single compartment with no fibre crossing or dispersion \cite{vedantam2014diffusion} more advanced biophysical models that account for the inhomogeneity of the tissue such as NODDI and ActiveAx are computationally complex, degenerate in their parameters, and research studies are needed to determine fitting constraints as well as explicitly describe appropriate fixed parameter values. One obstacle to this is difficulty separating degrees of freedom in the model from biological variability in patients yielding poorly understood outcomes. \cite{novikov2018modeling}
+
+This project will combine 32 metrics in 50 spinal cord segments allowing us to map diffusion parameters across the length of many spinal cords enabling us to measure the correlations between them which have the potential to greatly reduce the space possible parameters in biophysical models and their associated histologies. Our results will provide useful insight into theorized biomarkers and inform future studies utilizing in vivo measurements. 
+
+% DMRI to probe the microstructure + defining DMRI
+% DMRI to improve over conventional MRI
+% Recent advancements in image processing to make DMRI feasible
+% Reduction of the parameter space for biophysical models that correspond to real SCI
+% Direct statement on what we want to find (A this project statement)
+
+
+

@@ -1,0 +1,231 @@
+\begin{thebibliography}{21}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Hulme et~al.}(2017)\citenamefont{Hulme, Brown, Fuller,
+  Riddell, Osman, Chowdhury, Kumar, Johnson, and Wright}}]{hulme2017developing}
+\bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Hulme}},
+  \bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{Brown}},
+  \bibinfo{author}{\bibfnamefont{H.~R.} \bibnamefont{Fuller}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Riddell}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Osman}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Chowdhury}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Kumar}},
+  \bibinfo{author}{\bibfnamefont{W.~E.} \bibnamefont{Johnson}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{K.~T.}
+  \bibnamefont{Wright}}, \bibinfo{journal}{Spinal Cord}
+  \textbf{\bibinfo{volume}{55}}, \bibinfo{pages}{114} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Badhiwala et~al.}(2018)\citenamefont{Badhiwala, Wilson,
+  Kwon, Casha, and Fehlings}}]{badhiwala2018review}
+\bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Badhiwala}},
+  \bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{Wilson}},
+  \bibinfo{author}{\bibfnamefont{B.~K.} \bibnamefont{Kwon}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Casha}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Fehlings}},
+  \bibinfo{journal}{Journal of neurotrauma} \textbf{\bibinfo{volume}{35}},
+  \bibinfo{pages}{1906} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Pouw et~al.}(2014)\citenamefont{Pouw, Kwon, Verbeek,
+  Vos, Van~Kampen, Fisher, Street, Paquette, Dvorak, Boyd
+  et~al.}}]{pouw2014structural}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Pouw}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Kwon}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Verbeek}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Vos}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Van~Kampen}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Fisher}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Street}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Paquette}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Dvorak}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Boyd}}, \bibnamefont{et~al.},
+  \bibinfo{journal}{Spinal cord} \textbf{\bibinfo{volume}{52}},
+  \bibinfo{pages}{428} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Kwon et~al.}(2010)\citenamefont{Kwon, Stammers,
+  Belanger, Bernardo, Chan, Bishop, Slobogean, Zhang, Umedaly, Giffin
+  et~al.}}]{kwon2010cerebrospinal}
+\bibinfo{author}{\bibfnamefont{B.~K.} \bibnamefont{Kwon}},
+  \bibinfo{author}{\bibfnamefont{A.~M.} \bibnamefont{Stammers}},
+  \bibinfo{author}{\bibfnamefont{L.~M.} \bibnamefont{Belanger}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Bernardo}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Chan}},
+  \bibinfo{author}{\bibfnamefont{C.~M.} \bibnamefont{Bishop}},
+  \bibinfo{author}{\bibfnamefont{G.~P.} \bibnamefont{Slobogean}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Umedaly}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Giffin}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Journal of neurotrauma}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{669} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Ahadi et~al.}(2015)\citenamefont{Ahadi, Khodagholi,
+  Daneshi, Vafaei, Mafi, and Jorjani}}]{ahadi2015diagnostic}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Ahadi}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Khodagholi}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Daneshi}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Vafaei}},
+  \bibinfo{author}{\bibfnamefont{A.~A.} \bibnamefont{Mafi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Jorjani}},
+  \bibinfo{journal}{Spine} \textbf{\bibinfo{volume}{40}}, \bibinfo{pages}{E823}
+  (\bibinfo{year}{2015}).
+
+\bibitem[{\citenamefont{Kwon et~al.}(2017)\citenamefont{Kwon, Streijger,
+  Fallah, Noonan, B{\'e}langer, Ritchie, Paquette, Ailon, Boyd, Street
+  et~al.}}]{kwon2017cerebrospinal}
+\bibinfo{author}{\bibfnamefont{B.~K.} \bibnamefont{Kwon}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Streijger}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Fallah}},
+  \bibinfo{author}{\bibfnamefont{V.~K.} \bibnamefont{Noonan}},
+  \bibinfo{author}{\bibfnamefont{L.~M.} \bibnamefont{B{\'e}langer}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Ritchie}},
+  \bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{Paquette}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Ailon}},
+  \bibinfo{author}{\bibfnamefont{M.~C.} \bibnamefont{Boyd}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Street}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Journal of neurotrauma}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{567} (\bibinfo{year}{2017}).
+
+\bibitem[{\citenamefont{Freund et~al.}(2016)\citenamefont{Freund, Friston,
+  Thompson, Stephan, Ashburner, Bach, Nagy, Helms, Draganski, Mohammadi
+  et~al.}}]{freund2016embodied}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Freund}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Friston}},
+  \bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{Thompson}},
+  \bibinfo{author}{\bibfnamefont{K.~E.} \bibnamefont{Stephan}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Ashburner}},
+  \bibinfo{author}{\bibfnamefont{D.~R.} \bibnamefont{Bach}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Nagy}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Helms}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Draganski}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Mohammadi}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Brain}
+  \textbf{\bibinfo{volume}{139}}, \bibinfo{pages}{1855} (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Hrishi and Sethuraman}(2019)}]{hrishi2019cerebrospinal}
+\bibinfo{author}{\bibfnamefont{A.~P.} \bibnamefont{Hrishi}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Sethuraman}},
+  \bibinfo{journal}{Indian Journal of Critical Care Medicine: peer-reviewed,
+  official publication of Indian Society of Critical Care Medicine}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{S115} (\bibinfo{year}{2019}).
+
+\bibitem[{\citenamefont{Cohen-Adad}(2018)}]{cohen2018microstructural}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Cohen-Adad}},
+  \bibinfo{journal}{Neuroimage} \textbf{\bibinfo{volume}{182}},
+  \bibinfo{pages}{169} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Cadotte et~al.}(2018)\citenamefont{Cadotte, Akbar,
+  Fehlings, Stroman, and Cohen-Adad}}]{cadotte2018has}
+\bibinfo{author}{\bibfnamefont{D.~W.} \bibnamefont{Cadotte}},
+  \bibinfo{author}{\bibfnamefont{M.~A.} \bibnamefont{Akbar}},
+  \bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Fehlings}},
+  \bibinfo{author}{\bibfnamefont{P.~W.} \bibnamefont{Stroman}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Cohen-Adad}},
+  \bibinfo{journal}{Journal of neurotrauma} \textbf{\bibinfo{volume}{35}},
+  \bibinfo{pages}{1942} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Freund et~al.}(2013)\citenamefont{Freund, Weiskopf,
+  Ashburner, Wolf, Sutter, Altmann, Friston, Thompson, and
+  Curt}}]{freund2013mri}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Freund}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Weiskopf}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Ashburner}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Wolf}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Sutter}},
+  \bibinfo{author}{\bibfnamefont{D.~R.} \bibnamefont{Altmann}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Friston}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Thompson}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Curt}}, \bibinfo{journal}{The
+  Lancet Neurology} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{873}
+  (\bibinfo{year}{2013}).
+
+\bibitem[{\citenamefont{Seif et~al.}(2018)\citenamefont{Seif, Curt, Thompson,
+  Grabher, Weiskopf, and Freund}}]{seif2018quantitative}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Seif}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Curt}},
+  \bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{Thompson}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Grabher}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Weiskopf}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Freund}},
+  \bibinfo{journal}{NeuroImage: Clinical} \textbf{\bibinfo{volume}{20}},
+  \bibinfo{pages}{556} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Vedantam et~al.}(2014)\citenamefont{Vedantam, Jirjis,
+  Schmit, Wang, Ulmer, and Kurpad}}]{vedantam2014diffusion}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Vedantam}},
+  \bibinfo{author}{\bibfnamefont{M.~B.} \bibnamefont{Jirjis}},
+  \bibinfo{author}{\bibfnamefont{B.~D.} \bibnamefont{Schmit}},
+  \bibinfo{author}{\bibfnamefont{M.~C.} \bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{J.~L.} \bibnamefont{Ulmer}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~N.} \bibnamefont{Kurpad}},
+  \bibinfo{journal}{Neurosurgery} \textbf{\bibinfo{volume}{74}},
+  \bibinfo{pages}{1} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{Novikov et~al.}(2018)\citenamefont{Novikov, Kiselev,
+  and Jespersen}}]{novikov2018modeling}
+\bibinfo{author}{\bibfnamefont{D.~S.} \bibnamefont{Novikov}},
+  \bibinfo{author}{\bibfnamefont{V.~G.} \bibnamefont{Kiselev}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{S.~N.}
+  \bibnamefont{Jespersen}}, \bibinfo{journal}{Magnetic resonance in medicine}
+  \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{3172} (\bibinfo{year}{2018}).
+
+\bibitem[{\citenamefont{Griffiths}(2005)}]{griffiths2005introduction}
+\bibinfo{author}{\bibfnamefont{D.~J.} \bibnamefont{Griffiths}},
+  \bibinfo{journal}{Prentice Hall),} \textbf{\bibinfo{volume}{23}},
+  \bibinfo{pages}{26} (\bibinfo{year}{2005}).
+
+\bibitem[{\citenamefont{Bushberg and Boone}(2011)}]{bushberg2011essential}
+\bibinfo{author}{\bibfnamefont{J.~T.} \bibnamefont{Bushberg}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~M.} \bibnamefont{Boone}},
+  \emph{\bibinfo{title}{The essential physics of medical imaging}}
+  (\bibinfo{publisher}{Lippincott Williams \& Wilkins}, \bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Rohmer and Gullberg}(2006)}]{rohmer2006bloch}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Rohmer}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.~T.} \bibnamefont{Gullberg}}
+  (\bibinfo{year}{2006}).
+
+\bibitem[{\citenamefont{Mori}(2007)}]{mori2007introduction}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Mori}},
+  \emph{\bibinfo{title}{Introduction to diffusion tensor imaging}}
+  (\bibinfo{publisher}{Elsevier}, \bibinfo{year}{2007}).
+
+\bibitem[{\citenamefont{Jensen et~al.}(2005)\citenamefont{Jensen, Helpern,
+  Ramani, Lu, and Kaczynski}}]{jensen2005diffusional}
+\bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Jensen}},
+  \bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Helpern}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Ramani}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Lu}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Kaczynski}},
+  \bibinfo{journal}{Magnetic Resonance in Medicine: An Official Journal of the
+  International Society for Magnetic Resonance in Medicine}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{1432} (\bibinfo{year}{2005}).
+
+\bibitem[{\citenamefont{Kaden et~al.}(2016)\citenamefont{Kaden, Kruggel, and
+  Alexander}}]{kaden2016quantitative}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Kaden}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Kruggel}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.~C.} \bibnamefont{Alexander}},
+  \bibinfo{journal}{Magnetic resonance in medicine}
+  \textbf{\bibinfo{volume}{75}}, \bibinfo{pages}{1752} (\bibinfo{year}{2016}).
+
+\bibitem[{\citenamefont{Zhang et~al.}(2012)\citenamefont{Zhang, Schneider,
+  Wheeler-Kingshott, and Alexander}}]{zhang2012noddi}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Schneider}},
+  \bibinfo{author}{\bibfnamefont{C.~A.} \bibnamefont{Wheeler-Kingshott}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~C.}
+  \bibnamefont{Alexander}}, \bibinfo{journal}{Neuroimage}
+  \textbf{\bibinfo{volume}{61}}, \bibinfo{pages}{1000} (\bibinfo{year}{2012}).
+
+\end{thebibliography}
