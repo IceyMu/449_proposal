@@ -1,4 +1,4 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{23}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -171,6 +171,15 @@
   \bibinfo{journal}{Neurosurgery} \textbf{\bibinfo{volume}{74}},
   \bibinfo{pages}{1} (\bibinfo{year}{2014}).
 
+\bibitem[{\citenamefont{Jelescu et~al.}(2016)\citenamefont{Jelescu, Veraart,
+  Fieremans, and Novikov}}]{jelescu2016degeneracy}
+\bibinfo{author}{\bibfnamefont{I.~O.} \bibnamefont{Jelescu}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Veraart}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Fieremans}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~S.}
+  \bibnamefont{Novikov}}, \bibinfo{journal}{NMR in Biomedicine}
+  \textbf{\bibinfo{volume}{29}}, \bibinfo{pages}{33} (\bibinfo{year}{2016}).
+
 \bibitem[{\citenamefont{Novikov et~al.}(2018)\citenamefont{Novikov, Kiselev,
   and Jespersen}}]{novikov2018modeling}
 \bibinfo{author}{\bibfnamefont{D.~S.} \bibnamefont{Novikov}},
@@ -227,5 +236,20 @@
   \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~C.}
   \bibnamefont{Alexander}}, \bibinfo{journal}{Neuroimage}
   \textbf{\bibinfo{volume}{61}}, \bibinfo{pages}{1000} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Wang et~al.}(2011)\citenamefont{Wang, Wang, Haldar,
+  Yeh, Xie, Sun, Tu, Trinkaus, Klein, Cross et~al.}}]{wang2011quantification}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{Q.}~\bibnamefont{Wang}},
+  \bibinfo{author}{\bibfnamefont{J.~P.} \bibnamefont{Haldar}},
+  \bibinfo{author}{\bibfnamefont{F.-C.} \bibnamefont{Yeh}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Xie}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Sun}},
+  \bibinfo{author}{\bibfnamefont{T.-W.} \bibnamefont{Tu}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Trinkaus}},
+  \bibinfo{author}{\bibfnamefont{R.~S.} \bibnamefont{Klein}},
+  \bibinfo{author}{\bibfnamefont{A.~H.} \bibnamefont{Cross}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Brain}
+  \textbf{\bibinfo{volume}{134}}, \bibinfo{pages}{3590} (\bibinfo{year}{2011}).
 
 \end{thebibliography}

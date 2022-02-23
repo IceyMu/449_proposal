@@ -1,0 +1,998 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.4)  26 FEB 2022 17:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/run/media/marcus/c0b18950-d75e-4fd2-a761-e3fdc1e863ec/School/PHYS_449/proposal/rough_proposal_marcus.tex
+(/run/media/marcus/c0b18950-d75e-4fd2-a761-e3fdc1e863ec/School/PHYS_449/proposal/rough_proposal_marcus.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/usr/share/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2020/09/30 v4.0a (http://publish.aps.org/revtex4/ for documentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 640.
+\intertabularlinepenalty=\count183
+\@tbpen=\count184
+\@arstrutbox@hline=\box50
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1654.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count185
+\output=\toks16
+\@protection@box=\box51
+\@topmark@saved=\toks17
+\footins@saved=\box52
+\pagesofar=\box53
+\footbox=\box54
+\pagegrid@col=\count186
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text only upper/lower case changing (DPC)]. on input line 3736.
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count187
+\absbox=\box55
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\c@figure=\count194
+\c@table=\count195
+ (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count196
+)
+\widetext@top=\box56
+\widetext@bot=\box57
+ (/usr/share/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2020/09/30 v4.0a (http://publish.aps.org/revtex4/ for documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen138
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen139
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip17
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks20
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks21
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+
+Class revtex4 Warning: No Society specified, using generic APS style.
+
+(/usr/share/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2020/09/30 v4.0a (http://publish.aps.org/revtex4/ for documentation)
+) (/usr/share/texmf-dist/tex/latex/revtex4/10pt.rtx
+File: 10pt.rtx 2020/09/30 v4.0a (http://publish.aps.org/revtex4/ for documentation)
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (/usr/share/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box60
+\extrarowheight=\dimen150
+\NC@list=\toks25
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box61
+)) (/usr/share/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box62
+) (./rough_proposal_marcus.aux)
+\openout1 = `rough_proposal_marcus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+Class revtex4 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 28.
+Class revtex4 Info: cite was not loaded (OK!) on input line 28.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 28.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen151
+\scratchbox=\box63
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen152
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (./motivation.tex
+./motivation.tex:9: Undefined control sequence.
+l.9 \sci
+         is a major focus of neuropathology research where despite recent pr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:9: Undefined control sequence.
+l.9 ...euroscience most patients experiencing \sci
+                                                   are unlikely to make a fu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:9: Undefined control sequence.
+l.9 ...ers may track tissue changes following \sci
+                                                   which will provide value ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `hulme2017developing' on page 1 undefined on input line 9.
+
+./motivation.tex:9: Undefined control sequence.
+l.9 ...ociated with assessing the severity of \sci
+                                                   by limiting the number of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `badhiwala2018review' on page 1 undefined on input line 9.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...al cord would be a disruption in the \bscb
+                                                   that causes cellular mate...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...rom the injury site to spill into the \csf
+                                                   or blood; alternatively o...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ... example of a potential biomarker is \gfap
+                                                   which is a protein only f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...oduction is stimulated in response to \sci
+                                                   where within the first 24...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...correlation between injury grade and \gfap
+                                                   concentrations \cite{pouw...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `pouw2014structural' on page 1 undefined on input line 27.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...4structural} however within 72-hours \gfap
+                                                   concentrations are correl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `kwon2010cerebrospinal' on page 1 undefined on input line 27.
+
+
+Package natbib Warning: Citation `ahadi2015diagnostic' on page 1 undefined on input line 27.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...ahadi2015diagnostic} and analysis of \gfap
+                                                   in \csf predicted \sci se...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...5diagnostic} and analysis of \gfap in \csf
+                                                   predicted \sci severity a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:27: Undefined control sequence.
+l.27 ...d analysis of \gfap in \csf predicted \sci
+                                                   severity and recovery out...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `kwon2017cerebrospinal' on page 1 undefined on input line 27.
+
+./motivation.tex:41: Undefined control sequence.
+l.41 \mri
+          is an essential tool for diagnosing and determining rehabilitation...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:41: Undefined control sequence.
+l.41 ...etermining rehabilitation outcomes in \sci
+                                                   patients. %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:43: Undefined control sequence.
+l.43 \mri
+          studies allow for non-invasive and in vivo histology. It provides ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `freund2016embodied' on page 1 undefined on input line 43.
+
+./motivation.tex:49: Undefined control sequence.
+l.49 The use of \mri
+                     for prognosis is preferable because it avoids the negat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:49: Undefined control sequence.
+l.49 ...e methods involving the collection of \csf
+                                                   which adds the risk of pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `hrishi2019cerebrospinal' on page 1 undefined on input line 49.
+
+./motivation.tex:49: Undefined control sequence.
+l.49 ...hrishi2019cerebrospinal} Quantitative \mri
+                                                   techniques such as \dmri ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:49: Undefined control sequence.
+l.49 ...Quantitative \mri techniques such as \dmri
+                                                   enable probing of the spi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:49: Undefined control sequence.
+l.49 ...de smaller than the voxel size of the \mri
+                                                   scan by measuring the dir...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `cohen2018microstructural' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `cadotte2018has' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `freund2013mri' on page 1 undefined on input line 49.
+
+
+Package natbib Warning: Citation `seif2018quantitative' on page 1 undefined on input line 49.
+
+./motivation.tex:51: Undefined control sequence.
+l.51 ... spinal cord microstructure from the \dmri
+                                                   data requires assuming a ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:51: Undefined control sequence.
+l.51 ...ta to it. A common technique known as \dti
+                                                   models the diffusivity wi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:51: Undefined control sequence.
+l.51 ...he microstructure is interpreted from \dti
+                                                   metrics such as using fra...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./motivation.tex:51: Undefined control sequence.
+l.51 ...envalues, to quantify axon integrity. \dti
+                                                   techniques are limited by...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `vedantam2014diffusion' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `jelescu2016degeneracy' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `novikov2018modeling' on page 1 undefined on input line 59.
+
+./motivation.tex:61: Undefined control sequence.
+l.61 ...rd segments allowing us to correlate \dmri
+                                                   metrics across both healt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./theory.tex
+./theory.tex:10: Undefined control sequence.
+l.10 \mri
+          is the use of nuclear magnetic resonance to probe the structure of...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:zeeman' on page 2 undefined on input line 10.
+
+
+Package natbib Warning: Citation `griffiths2005introduction' on page 2 undefined on input line 16.
+
+
+Package natbib Warning: Citation `bushberg2011essential' on page 2 undefined on input line 16.
+
+./theory.tex:18: Undefined control sequence.
+<recently read> \vm 
+                    
+l.18 ...um. The time change in magnetization, $\vm
+                                                  $, is given by the equatio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:bloch' on page 2 undefined on input line 18.
+
+./theory.tex:21: Undefined control sequence.
+<argument> d \vm 
+                 
+l.21     \frac{d \vm}{dt}
+                          = \gamma \vm \times \vec{B_0} - \frac{M_x \hat{x} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:21: Undefined control sequence.
+l.21     \frac{d \vm}{dt} = \gamma \vm
+                                       \times \vec{B_0} - \frac{M_x \hat{x} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `bushberg2011essential' on page 2 undefined on input line 25.
+
+./theory.tex:25: Undefined control sequence.
+l.25 ...ced during relaxation and the measured \mr
+                                                   signals form a k-space ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:bloch' on page 2 undefined on input line 38.
+
+
+LaTeX Warning: Reference `eq:bloch' on page 2 undefined on input line 38.
+
+
+LaTeX Warning: Reference `eq:torrey' on page 2 undefined on input line 38.
+
+./theory.tex:41: Undefined control sequence.
+<argument> d \vm 
+                 
+l.41     \frac{d \vm}{dt}
+                          = \frac{d \vm_{\text{Bloch}}}{dt} + \nabla \cdot D...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:41: Undefined control sequence.
+<argument> d \vm 
+                 _{\text {Bloch}}
+l.41 ...\vm}{dt} = \frac{d \vm_{\text{Bloch}}}{dt}
+                                                   + \nabla \cdot D \nabla \vm
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:41: Undefined control sequence.
+l.41 ...t{Bloch}}}{dt} + \nabla \cdot D \nabla \vm
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:45: Undefined control sequence.
+l.45 Where ${d \vm
+                  _{\text{Bloch}}}/{dt}$ is the RHS of equation \ref{eq:bloc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:bloch' on page 2 undefined on input line 45.
+
+
+Package natbib Warning: Citation `rohmer2006bloch' on page 2 undefined on input line 45.
+
+./theory.tex:52: Undefined control sequence.
+l.52     \vm
+             = \vm_{\text{Bloch}} e^{-\gamma^2 \delta^2_d \Delta \vec{G}^T D...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:52: Undefined control sequence.
+l.52     \vm = \vm
+                  _{\text{Bloch}} e^{-\gamma^2 \delta^2_d \Delta \vec{G}^T D...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:bt_sol' on page 2 undefined on input line 56.
+
+[2]
+
+LaTeX Warning: Reference `fig:phase' on page 3 undefined on input line 62.
+
+./theory.tex:62: Undefined control sequence.
+l.62 ...and $\Delta$ are visualized in for a \dmri
+                                                   sequence in figure \ref{f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:sequence' on page 3 undefined on input line 62.
+
+<figures/phase.png, id=25, 645.91313pt x 474.77374pt>
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 65--66
+ [][] |
+ []
+
+
+Package natbib Warning: Citation `mori2007introduction' on page 3 undefined on input line 66.
+
+
+Package natbib Warning: Citation `mori2007introduction' on page 3 undefined on input line 66.
+
+<figures/sequence.png, id=27, 643.6547pt x 392.21532pt>
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 71--72
+ [][] |
+ []
+
+./theory.tex:72: Undefined control sequence.
+<argument> ...s the timing and phase of the \dmri 
+                                                  phasing pulses, center row...
+l.72 ...Image adapted from \cite{rohmer2006bloch}}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:72: Undefined control sequence.
+<argument> ...s the timing and phase of the \dmri 
+                                                  phasing pulses, center row...
+l.72 ...Image adapted from \cite{rohmer2006bloch}}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `rohmer2006bloch' on page 3 undefined on input line 72.
+
+./theory.tex:72: Undefined control sequence.
+<argument> ...s the timing and phase of the \dmri 
+                                                  phasing pulses, center row...
+l.72 ...Image adapted from \cite{rohmer2006bloch}}
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `rohmer2006bloch' on page 3 undefined on input line 72.
+
+./theory.tex:77: Undefined control sequence.
+l.77 ...he structure of the spinal cord from \dmri
+                                                   data requires fitting the...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:80: Undefined control sequence.
+l.80 \dti
+          is a model where gaussian diffusion is made anisotropic by
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `eq:dti' on page 3 undefined on input line 81.
+
+
+Package natbib Warning: Citation `vedantam2014diffusion' on page 3 undefined on input line 88.
+
+./theory.tex:91: Undefined control sequence.
+l.91 \dki
+          models non-gaussian diffusion through a Taylor expansion of the si...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `jensen2005diffusional' on page 3 undefined on input line 97.
+
+./theory.tex:100: Undefined control sequence.
+l.100 \smt
+           modelling measures the underlying tissue using data at a fixed b-...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+./theory.tex:117: Undefined control sequence.
+<argument> \sqrt {\pi }\erf 
+                            \left (\sqrt {b (\lambda _\parallel - \lambda _\...
+l.117 ...t{b (\lambda_\parallel - \lambda_\perp)}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `kaden2016quantitative' on page 4 undefined on input line 120.
+
+./theory.tex:123: Undefined control sequence.
+l.123 ...n, the extracellular region, and the \csf
+                                                  . The measured signal is m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:129: Undefined control sequence.
+l.129 ...}$ is the isotropic diffusion in the \csf
+                                                   compartment, and $\nu_{ic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:135: Undefined control sequence.
+l.135 ...diffusion like that discussed in the \dti
+                                                   section, and $S_{iso}$ is...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:135: Undefined control sequence.
+l.135 ...sotropic diffusion discussed in the \dmri
+                                                   section. \cite{zhang2012n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `zhang2012noddi' on page 4 undefined on input line 135.
+
+./theory.tex:138: Undefined control sequence.
+l.138 \dbsi
+            is a model where we consider the \dmri signal to be a linear com...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./theory.tex:138: Undefined control sequence.
+l.138 \dbsi is a model where we consider the \dmri
+                                                   signal to be a linear com...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./theory.tex:140: LaTeX Error: Environment IEEEeqnarray* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \begin{IEEEeqnarray*}
+                           {rCl}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./theory.tex:141: Package amsmath Error: \hat allowed only in math mode.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141     S(\hat{g}
+                   _i) &=& \sum_{n=1}^{N_{\text{Aniso}}} f_n e^{-b_i} \lambd...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./theory.tex:141: Missing $ inserted.
+<inserted text> 
+                $
+l.141     S(\hat{g}_
+                    i) &=& \sum_{n=1}^{N_{\text{Aniso}}} f_n e^{-b_i} \lambd...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./theory.tex:141: Misplaced alignment tab character &.
+l.141     S(\hat{g}_i) &
+                        =& \sum_{n=1}^{N_{\text{Aniso}}} f_n e^{-b_i} \lambd...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./theory.tex:141: Misplaced alignment tab character &.
+l.141     S(\hat{g}_i) &=&
+                           \sum_{n=1}^{N_{\text{Aniso}}} f_n e^{-b_i} \lambd...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./theory.tex:142: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.142     &
+           & + \int_a^b f(D) e^{-b_i D} dD
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./theory.tex:142: Misplaced alignment tab character &.
+l.142     &&
+             + \int_a^b f(D) e^{-b_i D} dD
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+./theory.tex:143: LaTeX Error: \begin{document} ended by \end{IEEEeqnarray*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \end{IEEEeqnarray*}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./theory.tex:143: Missing $ inserted.
+<inserted text> 
+                $
+l.143 \end{IEEEeqnarray*}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 145--146
+\OT1/cmr/m/n/10 ten-sors, $\OML/cmm/m/it/10 ^^U[]$ \OT1/cmr/m/n/10 and $\OML/cmm/m/it/10 ^^U[]$ \OT1/cmr/m/n/10 the dif-fu-siv-i-ties of the nth
+ []
+
+) [4] (./resources.tex)
+
+Package natbib Warning: Citation `albayar2019biomarkers' on page 5 undefined on input line 104.
+
+(./schedule.tex
+./schedule.tex:12: Undefined control sequence.
+l.12     \item Create graphs of \dmri
+                                      metrics in white and grey matter \roi ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./schedule.tex:12: Undefined control sequence.
+l.12 ...dmri metrics in white and grey matter \roi
+                                                   along the spinal cord.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./schedule.tex:17: Undefined control sequence.
+l.17 ...ween biophysical model parameters and \sci
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+No file rough_proposal_marcus.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[5] (./rough_proposal_marcus.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4365 strings out of 478353
+ 60918 string characters out of 5854636
+ 384540 words of memory out of 5000000
+ 22429 multiletter control sequences out of 15000+600000
+ 416921 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,7n,73p,1304b,375s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on rough_proposal_marcus.pdf (5 pages, 289454 bytes).
+PDF statistics:
+ 139 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
