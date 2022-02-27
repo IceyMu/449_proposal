@@ -7,13 +7,13 @@
 %\subsection{Nuclear Magnetic Resonance}
 
 \subsection{Magnetic Resonance Imaging}
-\mri is the use of nuclear magnetic resonance to probe the structure of a sample. Protons neutrons are particles with a non-zero spin angular momentum and therefore ground state nuclei containing an odd number of protons have a net magnetic moment and in the presence of a magnetic field there is a lifting of the degeneracy of the spin-up and spin-down magnetic substates causing it to be energetically preferable for the spins of the particles to be oppositely aligned, this is known as the Zeeman effect, the energy splitting is given by equation \ref{eq:zeeman}.
+\mri is the use of nuclear magnetic resonance to probe the structure of a sample. Protons and neutrons are particles with a non-zero spin angular momentum and therefore ground state nuclei containing an odd number of either will have a net magnetic moment. In the presence of a magnetic field there is a lifting of the degeneracy of the spin-up and spin-down magnetic substates causing it to be energetically preferable for the spins of the particles to be oppositely aligned, this is known as the Zeeman effect. The energy splitting is given by equation \ref{eq:zeeman}.
 \begin{equation}
     \Delta E = \gamma \mu B_0
     \label{eq:zeeman}
 \end{equation}
 
-Where $B_0$ is the strength of the applied magnetic field, $\mu$ is the nuclear magneton, and $\gamma$ is the gyrometric factor which depends on the angular momentum of the particle. \cite{griffiths2005introduction} In practice, nuclei feel the external field and internal fields from chemical bonding causing a shift in $\Delta E$ and these shifts are catalogued into functional groups. If we consider a proton rich sample, individual protons can emit and absorb photons that match the energy splitting to transition between states, the energy splitting can be determined from measuring the absorption spectrum of the sample where the most energy will be absorbed at the frequency that matches $\Delta E$, this effect is known as nuclear magnetic resonance. \cite{bushberg2011essential} The total energy absorbed is proportional to the number of protons that have been excited therefore when $\Delta E$ is known, a non uniform $\vec{B}$ field can be applied such that the sample will only resonate with the sample in a single plane, choosing a plane is known slice selection, measuring the absorbed energy we learn the proton density in that slice.
+Where $B_0$ is the strength of the applied magnetic field, $\mu$ is the nuclear magneton, and $\gamma$ is the gyrometric factor which depends on the angular momentum of the particle. \cite{griffiths2005introduction} In practice, nuclei feel the external field and internal fields from chemical bonding causing a shift in $\Delta E$ and these shifts are catalogued into functional groups. If we consider a proton rich sample, individual protons can emit and absorb photons that match the energy splitting to transition between states. The energy splitting can be determined from measuring the absorption spectrum of the sample where the most energy will be absorbed at the frequency that matches $\Delta E$, this effect is known as nuclear magnetic resonance. \cite{bushberg2011essential} The total energy absorbed is proportional to the number of protons that have been excited. When $\Delta E$ is known, a nonuniform $\vec{B}$ field can be applied such that the sample will only resonate with the photons in a single plane. Choosing a plane is known slice selection. Measuring the absorbed energy we learn the proton density in that slice.
 
 Another observable signal is the photons released by the protons as the sample lose magnetization and relaxes back to thermal equilibrium. The time change in magnetization, $\vm$, is given by the equation \ref{eq:bloch} the Bloch equation where we assume $\vec{B_0}$ is pointing along the z-axis:
 
@@ -73,14 +73,18 @@ Where $TE$ is the echo time which is the time between the exciting pulse and the
     \label{fig:sequence}
 \end{figure}
 
-\subsection{Biophysical Models of Spinal Cord Microstructure}
-Determining the structure of the spinal cord from \dmri data requires fitting the data to a prior model of the microstructure. The ones used in our analysis are:
-
-\subsubsection{Diffusion Tensor Imaging}
-\dti is a model where the signal in each voxel is fit to gaussian diffusion parameterized by anisotropic gaussian diffusion tensors fitting the form of equation \ref{eq:dti}.
+\subsection{Signal Representations and Biophysical Models of Spinal Cord Microstructure}
+Determining the structure of the spinal cord from \dmri data requires using a signal repersentation to decompose the measured signal into a basis and a biophysical model of the tissue to fit the signal to and recover the microstructure.
 
 \if{false}
-\dti is a model where isortropic gaussian diffusion coefficients are replaced by anisotropic diffusion tensors by the measured signal is assumed to be given by equation \ref{eq:dti}
+Determining the structure of the spinal cord from \dmri data requires fitting the data to a prior model of the microstructure. The ones used in our analysis are:
+\fi
+
+\subsubsection{Diffusion Tensor Imaging}
+\dti is a representation where the signal in each voxel is fit to gaussian diffusion parameterized by anisotropic gaussian diffusion tensors fitting the form of equation \ref{eq:dti}.
+
+\if{false}
+\dti is a representation where isortropic gaussian diffusion coefficients are replaced by anisotropic diffusion tensors by the measured signal is assumed to be given by equation \ref{eq:dti}
 \fi
 
 \begin{equation}
@@ -100,7 +104,7 @@ Where $D$ is the diffusion tensor, $\hat{g_i}$ is the normalized diffusion gradi
 Where now $D$ is the kurtosis vector and is represented as a fully symmetric rank 4 tensor which gives 15 independent components. \cite{jensen2005diffusional}
 
 \subsubsection{Spherical Mean Technique}
-\smt modelling measures the underlying tissue using data at a fixed b-value using a parameter that is invariant of axon orientation and therefore does not have to make simplifying assumptions about the crossing or dispersion of the fibre anatomy. First we define a normalized diffusion signal:
+\smt decomposition measures the underlying tissue using data at a fixed b-value using a parameter that is invariant of axon orientation and therefore does not have to make simplifying assumptions about the crossing or dispersion of the fibre anatomy. First we define a normalized diffusion signal:
 
 \begin{equation}
     e_b(\vec{g}) = \frac{S_b(\vec{g})}{S_0}
@@ -138,7 +142,25 @@ Where $S_{ic}$ and $S_{ec}$ are the diffusion signals due to the intra and extra
 Where $f(\vec{n})$ is the orientation density for axons being aligned with the direction of $\vec{n}$ and $d_\parallel$ is the diffusivity of water along the length of the axon. The extracellular component of the signal is modelled as anisotropic gaussian diffusion like that discussed in the \dti section, and $S_{iso}$ is modelled as isotropic diffusion discussed in the \dmri section. \cite{zhang2012noddi}
 
 \subsubsection{ActiveAx}
-ActiveAx
+% See Tissue model section of ActiveAx paper for the 4 compartment breakdown.
+ActiveAx is a four compartment model where the measured signal is the weighted sum of four separate signals. The measured signal is modeled by equation \ref{eq:ActiveAx}. \cite{alexander2010orientationally}
+
+\begin{equation}
+    \label{eq:ActiveAx}
+    S = S_0 \sum_{i=1}^4 f_i S_i
+\end{equation}
+
+Where $S_0$, is magnitude of the \mr signal, $f_i \in [0,1]$ is a weighting factor for the four signals from each of the compartments described below.
+
+The first compartment is the interior of the axons and $S_1$ is gaussian diffusion only along the length of the axons. The second compartment is the nearby exterior of the axons where $S_2$ represents unrestricted gaussian diffusion parallel to the axons and partially restricted diffusion perpendicular to the axons where the perpendicular diffusion coefficient, $\lambda_\perp$ is related to the parallel diffusion coefficient with equation \ref{eq:aa_perp}.
+
+\begin{equation}
+    \label{eq:aa_perp}
+    \lambda_\perp = \lambda_\parallel (1 - \nu)
+\end{equation}
+
+Where $\nu$ is the fibre fraction of axons in the white matter. The third compartment is the \csf as there are no axons this is modeled by isotropic gaussian diffusion. The forth compartment is water trapped in glial cells and $S_4=1$ is just a constant as there is no diffusion.
+
 
 \subsubsection{Diffusion Basis Spectrum Imaging}
 \dbsi is a model where we consider the \dmri signal to be a linear combination of anisotropic compartments and a spectrum of isotropic diffusion tensors where the signal is given by:

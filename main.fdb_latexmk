@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1645926990 "main.aux" "main.bbl" "main" 1645926991
+["bibtex main"] 1645961111 "main.aux" "main.bbl" "main" 1645961120
   "/usr/share/texmf-dist/bibtex/bst/revtex4/apsrev.bst" 1640564946 43844 78e58abfb2d07832103f1e2f30cf6375 ""
-  "main.aux" 1645926991 6379 131ad3f743483dae44b5aea242b51902 "pdflatex"
-  "references.bib" 1645925977 12223 c5fe2740dd49e33706b5e862132fe4e7 ""
+  "main.aux" 1645961119 6774 ca38f71f22a55cb7a80d650093576423 "pdflatex"
+  "references.bib" 1645958382 12463 a7a8da915b4c3310ed05125e5fc982f6 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1645926990 "/run/media/marcus/c0b18950-d75e-4fd2-a761-e3fdc1e863ec/School/PHYS_449/proposal/main.tex" "main.pdf" "main" 1645926991
+["pdflatex"] 1645961118 "/run/media/marcus/c0b18950-d75e-4fd2-a761-e3fdc1e863ec/School/PHYS_449/proposal/main.tex" "main.pdf" "main" 1645961120
   "/run/media/marcus/c0b18950-d75e-4fd2-a761-e3fdc1e863ec/School/PHYS_449/proposal/main.tex" 1645926051 5717 7d0c21bc998b161cca1f39a36b337b1e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1640600964 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1640600964 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -144,17 +144,17 @@
   "abstract.tex" 1645716803 1039 327e246bb7137d3df86a7247722593c7 ""
   "acknowledgement.tex" 1645358885 181 99d93e9827d2bc4e5a803bad54557fd5 ""
   "acronyms.tex" 1645716644 699 b5a7d57ca91023e4f4e548733340655c ""
-  "calculation.tex" 1645392274 746 e9e3e38cb2e7d05604f73a22f4c6ea74 ""
+  "calculation.tex" 1645960240 1303 b64d56bb956e8993a9a66dc8dd0c160e ""
   "figures/phase.png" 1645389686 440351 284c401444a5a2e124c9c9ab2fd6873b ""
   "figures/sequence.png" 1645389527 33063 61f8e85817ebf9c65c157dcd974638ac ""
   "generated_tex/acronym_macros.tex" 1645716478 454 84ef090be673deb64439d571d3e05ca8 ""
-  "main.aux" 1645926991 6379 131ad3f743483dae44b5aea242b51902 "pdflatex"
-  "main.bbl" 1645926990 14328 1b44e804af99370818709c2e59c7a783 "bibtex main"
+  "main.aux" 1645961119 6774 ca38f71f22a55cb7a80d650093576423 "pdflatex"
+  "main.bbl" 1645961111 15540 cb13a7e4ff8056f21eb0fc9d8db31f1f "bibtex main"
   "main.tex" 1645926051 5717 7d0c21bc998b161cca1f39a36b337b1e ""
   "motivation.tex" 1645925640 8456 d069677ad42535de2ad275924b3605c2 ""
   "resources.tex" 1645716252 362 6abfdd334e07d2a6e6d0464fea55f442 ""
-  "schedule.tex" 1645716736 1457 b7a289fcefcc1889b2fdd4d6b6989276 ""
-  "theory.tex" 1645926989 17967 aaa7ee63f6bddcd2ea8bc93f23fe4c04 ""
+  "schedule.tex" 1645961118 1502 30e801828a76b19b12680cd7bbccf717 ""
+  "theory.tex" 1645960755 19631 5926a540602c6c5ca21869ec13fa6f2b ""
   (generated)
   "main.aux"
   "main.log"

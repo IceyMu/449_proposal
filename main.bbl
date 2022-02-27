@@ -1,4 +1,4 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{25}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -237,6 +237,19 @@
   \bibnamefont{Alexander}}, \bibinfo{journal}{Neuroimage}
   \textbf{\bibinfo{volume}{61}}, \bibinfo{pages}{1000} (\bibinfo{year}{2012}).
 
+\bibitem[{\citenamefont{Alexander et~al.}(2010)\citenamefont{Alexander,
+  Hubbard, Hall, Moore, Ptito, Parker, and
+  Dyrby}}]{alexander2010orientationally}
+\bibinfo{author}{\bibfnamefont{D.~C.} \bibnamefont{Alexander}},
+  \bibinfo{author}{\bibfnamefont{P.~L.} \bibnamefont{Hubbard}},
+  \bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Hall}},
+  \bibinfo{author}{\bibfnamefont{E.~A.} \bibnamefont{Moore}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ptito}},
+  \bibinfo{author}{\bibfnamefont{G.~J.} \bibnamefont{Parker}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.~B.} \bibnamefont{Dyrby}},
+  \bibinfo{journal}{Neuroimage} \textbf{\bibinfo{volume}{52}},
+  \bibinfo{pages}{1374} (\bibinfo{year}{2010}).
+
 \bibitem[{\citenamefont{Wang et~al.}(2011)\citenamefont{Wang, Wang, Haldar,
   Yeh, Xie, Sun, Tu, Trinkaus, Klein, Cross et~al.}}]{wang2011quantification}
 \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wang}},
@@ -251,5 +264,14 @@
   \bibinfo{author}{\bibfnamefont{A.~H.} \bibnamefont{Cross}},
   \bibnamefont{et~al.}, \bibinfo{journal}{Brain}
   \textbf{\bibinfo{volume}{134}}, \bibinfo{pages}{3590} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Sengul et~al.}(2013)\citenamefont{Sengul, Watson,
+  Tanaka, and Paxinos}}]{sengul2013atlas}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Sengul}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Watson}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Tanaka}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Paxinos}},
+  \emph{\bibinfo{title}{Atlas of the spinal cord: Mouse, rat, rhesus, marmoset
+  and human}} (\bibinfo{year}{2013}).
 
 \end{thebibliography}
